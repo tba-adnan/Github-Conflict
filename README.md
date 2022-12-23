@@ -8,4 +8,4 @@
 
 4. User 2 (e.g) changes in code x varible to (e.g) 50.
 
-5. User 2 does not **git pull** but **git commit**.
+5. User 2 (does not **git pull**) but **git commit**.
