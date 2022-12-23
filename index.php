@@ -4,7 +4,7 @@
 
 <?php
 $txt = "Conflict DEMO";
-$x = 0;
+$x = 100;
 
 
 echo $txt;
